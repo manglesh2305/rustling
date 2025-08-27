@@ -1,1 +1,1 @@
-This repository is solution of Rust learning exercise rustling.
+This repository is for tracking my progress of Rust learning exercise rustling.
